@@ -1,0 +1,157 @@
+{
+  "auth": {
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "email": "Adresse Email",
+    "password": "Mot de Passe",
+    "needAccount": "Besoin d'un compte? S'inscrire",
+    "alreadyAccount": "Vous avez déjà un compte? Se connecter",
+    "loading": "Chargement...",
+    "disclaimer": "En vous connectant, vous acceptez nos Conditions d'Utilisation et notre Politique de Confidentialité. Vos données sont cryptées en toute sécurité et traitées conformément aux réglementations GDPR et HIPAA."
+  },
+  "sidebar": {
+    "home": "Accueil",
+    "dashboard": "Tableau de Bord",
+    "assessment": "Évaluation de Santé",
+    "carePlan": "Plan de Soins",
+    "mentalHealth": "Santé Mentale",
+    "chatAssistant": "Assistant IA",
+    "profile": "Profil",
+    "nutrition": "Nutrition",
+    "signOut": "Déconnexion"
+  },
+  "nutrition": {
+    "title": "Suivi Nutritionnel",
+    "subtitle": "Suivez vos repas et obtenez des informations nutritionnelles personnalisées",
+    "addFood": "Ajouter un Aliment",
+    "searchFood": "Rechercher un Aliment",
+    "dailySummary": "Résumé Quotidien",
+    "foodEntries": "Entrées Alimentaires",
+    "form": {
+      "mealType": "Type de Repas",
+      "foodName": "Nom de l'Aliment",
+      "portion": "Portion/Taille de la Portion",
+      "calories": "Calories",
+      "carbs": "Glucides (g)",
+      "protein": "Protéines (g)",
+      "fat": "Lipides (g)",
+      "fiber": "Fibres (g)",
+      "cancel": "Annuler",
+      "save": "Ajouter l'Entrée"
+    }
+  },
+  "header": {
+    "search": "Rechercher..."
+  },
+  "home": {
+    "welcome": "Bienvenue, {{name}}!",
+    "friend": "amie",
+    "subtitle": "Votre compagnon de santé propulsé par l'IA pour gérer le diabète et l'obésité",
+    "talkToAssistant": "Parler à l'Assistant IA",
+    "takeAssessment": "Faire une Évaluation de Santé",
+    "getStarted": "Commencer",
+    "features": {
+      "aiAssistant": {
+        "title": "Assistant de Santé IA",
+        "description": "Obtenez des conseils de santé personnalisés grâce à des conversations naturelles avec notre IA."
+      },
+      "carePlans": {
+        "title": "Plans de Soins Adaptatifs",
+        "description": "Recevez des plans personnalisés de nutrition et d'exercice qui s'adaptent à votre progression."
+      },
+      "healthTracking": {
+        "title": "Suivi de Santé",
+        "description": "Surveillez vos indicateurs de santé vitaux et visualisez les tendances au fil du temps."
+      },
+      "mentalHealth": {
+        "title": "Bien-être Mental",
+        "description": "Accédez à un soutien pour le stress, l'anxiété et d'autres aspects psychologiques de la santé."
+      },
+      "assessment": {
+        "title": "Évaluation de Santé",
+        "description": "Obtenez une évaluation complète de votre état de santé et des facteurs de risque."
+      }
+    },
+    "dailyTip": {
+      "title": "Conseil Santé du Jour",
+      "content": "Essayez d'ajouter plus de légumes verts à vos repas. Ils sont riches en nutriments et peuvent aider à réguler votre glycémie."
+    },
+    "quickActions": {
+      "title": "Actions Rapides",
+      "logHealth": "Enregistrer les Métriques Santé d'Aujourd'hui",
+      "askQuestion": "Poser une Question de Santé",
+      "viewPlan": "Voir Votre Plan de Soins"
+    },
+    "resources": {
+      "title": "Ressources Utiles",
+      "diabetesGuide": "Comprendre le Diabète de Type 2",
+      "nutritionBasics": "Bases de Nutrition pour une Meilleure Santé",
+      "mentalWellbeing": "Techniques de Gestion du Stress"
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de Bord Santé",
+    "subtitle": "Suivez et surveillez vos indicateurs de santé",
+    "bloodGlucose": "Glycémie",
+    "weight": "Poids",
+    "bloodPressure": "Tension Artérielle",
+    "steps": "Pas Quotidiens",
+    "date": "Date",
+    "mood": "Humeur",
+    "healthTrends": "Tendances de Santé",
+    "yourGoals": "Vos Objectifs de Santé",
+    "recentEntries": "Entrées Récentes",
+    "addEntry": "Ajouter une Entrée",
+    "editGoals": "Modifier les Objectifs",
+    "updateProgress": "Mettre à Jour le Progrès",
+    "goals": {
+      "bloodGlucose": "Gestion de la Glycémie",
+      "bloodGlucoseDetail": "Objectif: Maintenir la glycémie à jeun en dessous de 110 mg/dL",
+      "weight": "Gestion du Poids",
+      "weightDetail": "Objectif: Perdre 5kg dans les 3 prochains mois",
+      "activity": "Activité Physique",
+      "activityDetail": "Objectif: 8 000 pas quotidiens et 150 min/semaine d'exercice modéré"
+    },
+    "form": {
+      "date": "Date",
+      "weight": "Poids",
+      "bloodGlucose": "Glycémie",
+      "systolic": "Systolique",
+      "diastolic": "Diastolique",
+      "mood": "Humeur",
+      "moodVeryBad": "Très Mauvaise",
+      "moodBad": "Mauvaise",
+      "moodNeutral": "Neutre",
+      "moodGood": "Bonne",
+      "moodVeryGood": "Très Bonne",
+      "steps": "Pas",
+      "sleep": "Sommeil",
+      "hours": "heures",
+      "notes": "Notes",
+      "cancel": "Annuler",
+      "save": "Enregistrer"
+    },
+    "addNewEntry": "Ajouter une Nouvelle Entrée de Santé",
+    "demoNotice": {
+      "title": "Mode Démo",
+      "message": "Vous consultez actuellement des données d'exemple. Ajoutez vos propres indicateurs de santé pour commencer à suivre votre parcours de santé personnel."
+    }
+  },
+  "chat": {
+    "welcomeMessage": "Bonjour! Je suis votre assistant de santé OpenHanna AI. Je suis là pour vous aider avec toutes vos questions sur le diabète, l'obésité, la nutrition, l'exercice ou le bien-être mental. Comment puis-je vous aider aujourd'hui?",
+    "typePlaceholder": "Tapez votre message...",
+    "newChat": "Nouvelle Discussion",
+    "startNewConversation": "Démarrer une nouvelle conversation",
+    "recentChats": "Discussions Récentes",
+    "disclaimer": "Cet assistant IA fournit uniquement des informations générales sur la santé et ne remplace pas les conseils médicaux professionnels.",
+    "responses": {
+      "greeting": "Bonjour {{name}}! Comment vous sentez-vous aujourd'hui? Y a-t-il quelque chose de spécifique concernant votre santé dont vous aimeriez discuter?",
+      "diabetes": "La gestion du diabète de type 2 implique de surveiller votre glycémie, de maintenir une alimentation équilibrée riche en fibres et pauvre en glucides simples, une activité physique régulière et la prise de médicaments prescrits selon les indications. Un suivi régulier vous aide à comprendre comment différents aliments, activités et médicaments affectent votre glycémie. Souhaitez-vous des conseils plus spécifiques sur l'un de ces aspects?",
+      "diet": "Un régime alimentaire équilibré pour le diabète et la gestion du poids comprend généralement beaucoup de légumes non féculents, des quantités modérées de protéines maigres, des graisses saines et des glucides raffinés limités. Considérez la méthode de l'assiette: remplissez la moitié de votre assiette de légumes non féculents, un quart de protéines maigres et un quart de glucides complexes. Soyez également attentif à la taille des portions et essayez de manger régulièrement tout au long de la journée pour maintenir des niveaux de glycémie stables. Souhaitez-vous que je vous suggère quelques idées de repas spécifiques?",
+      "exercise": "L'activité physique régulière est cruciale pour gérer à la fois le diabète et le poids. Elle aide à améliorer la sensibilité à l'insuline, abaisse la glycémie et soutient la gestion du poids. Visez au moins 150 minutes d'activité aérobique d'intensité modérée par semaine, réparties sur au moins 3 jours. Incluez également des exercices de renforcement musculaire deux fois par semaine. Commencez lentement et augmentez progressivement l'intensité si vous débutez. La marche, la natation et le vélo sont d'excellentes options à faible impact. N'oubliez pas de vérifier votre glycémie avant et après l'exercice, surtout lorsque vous commencez une nouvelle routine.",
+      "mentalHealth": "Vivre avec des maladies chroniques comme le diabète et l'obésité peut être émotionnellement difficile. Des techniques de gestion du stress comme la respiration profonde, la méditation et la relaxation musculaire progressive peuvent aider à réduire les hormones de stress qui peuvent affecter la glycémie. L'activité physique régulière améliore également l'humeur en libérant des endorphines. Envisagez de rejoindre un groupe de soutien pour vous connecter avec d'autres personnes confrontées à des défis similaires. Si vous ressentez des sentiments persistants de tristesse, d'anxiété ou d'accablement, veuillez envisager de parler à un professionnel de la santé mentale spécialisé dans les maladies chroniques.",
+      "weight": "La gestion saine du poids combine des changements nutritionnels, une activité physique régulière et des stratégies comportementales. Concentrez-vous sur la création d'un déficit calorique modeste par le biais de l'alimentation et de l'exercice, visant une perte de poids progressive d'environ 0,5 à 1 kg par semaine. Choisissez des aliments entiers et non transformés qui procurent de la satiété avec moins de calories, comme les légumes, les fruits, les protéines maigres et les céréales complètes. Le suivi régulier du poids et des indicateurs de santé peut aider à suivre les progrès et à rester motivé. Rappelez-vous que la gestion durable du poids consiste à créer des changements durables dans le mode de vie plutôt qu'à suivre des régimes restrictifs à court terme.",
+      "default": "Merci pour votre question. En tant qu'assistant santé IA, je suis là pour vous fournir des informations sur la gestion du diabète, la nutrition, l'exercice, la gestion du poids et le bien-être mental. Pourriez-vous fournir plus de détails sur votre préoccupation de santé spécifique afin que je puisse vous donner des conseils plus adaptés?"
+    }
+  }
+}

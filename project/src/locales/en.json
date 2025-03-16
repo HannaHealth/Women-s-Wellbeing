@@ -1,0 +1,125 @@
+{
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email Address",
+    "password": "Password",
+    "needAccount": "Need an account? Sign up",
+    "alreadyAccount": "Already have an account? Sign in",
+    "loading": "Loading...",
+    "disclaimer": "By signing in, you agree to our Terms of Service and Privacy Policy. Your data is securely encrypted and handled in compliance with GDPR and HIPAA regulations."
+  },
+  "sidebar": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "assessment": "Health Assessment",
+    "carePlan": "Care Plan",
+    "mentalHealth": "Mental Health",
+    "chatAssistant": "Chat with Hanna™",
+    "profile": "Profile",
+    "nutrition": "Nutrition",
+    "signOut": "Sign Out"
+  },
+  "nutrition": {
+    "title": "Nutrition Tracker",
+    "subtitle": "Track your meals and get personalized nutrition insights",
+    "addFood": "Add Food",
+    "searchFood": "Search Food",
+    "dailySummary": "Daily Summary",
+    "foodEntries": "Food Entries",
+    "form": {
+      "mealType": "Meal Type",
+      "foodName": "Food Name",
+      "portion": "Portion/Serving Size",
+      "calories": "Calories",
+      "carbs": "Carbs (g)",
+      "protein": "Protein (g)",
+      "fat": "Fat (g)",
+      "fiber": "Fiber (g)",
+      "cancel": "Cancel",
+      "save": "Add Entry"
+    }
+  },
+  "header": {
+    "search": "Search..."
+  },
+  "home": {
+    "welcome": "Welcome, {{name}}!",
+    "friend": "friend",
+    "subtitle": "Your personal health companion for managing diabetes and obesity",
+    "talkToAssistant": "Talk to Hanna™",
+    "takeAssessment": "Take Health Assessment",
+    "getStarted": "Get Started",
+    "features": {
+      "aiAssistant": {
+        "title": "Personal Health Assistant",
+        "description": "Get personalized health guidance through natural conversations with Hanna™."
+      },
+      "carePlans": {
+        "title": "Adaptive Care Plans",
+        "description": "Receive customized nutrition and exercise plans that adapt to your progress."
+      },
+      "healthTracking": {
+        "title": "Health Tracking",
+        "description": "Monitor your vital health metrics and visualize trends over time."
+      },
+      "mentalHealth": {
+        "title": "Mental Wellbeing",
+        "description": "Access support for stress, anxiety, and other psychological aspects of health."
+      },
+      "assessment": {
+        "title": "Health Assessment",
+        "description": "Get a comprehensive evaluation of your health status and risk factors."
+      }
+    },
+    "dailyTip": {
+      "title": "Daily Health Tip",
+      "content": "Try adding more leafy greens to your meals. They're rich in nutrients and can help regulate blood sugar levels."
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "logHealth": "Log Today's Health Metrics",
+      "askQuestion": "Ask a Health Question",
+      "viewPlan": "View Your Care Plan"
+    },
+    "resources": {
+      "title": "Helpful Resources",
+      "diabetesGuide": "Understanding Type 2 Diabetes",
+      "nutritionBasics": "Nutrition Basics for Better Health",
+      "mentalWellbeing": "Stress Management Techniques"
+    }
+  },
+  "chat": {
+    "welcomeMessage": "Hello! I'm Hanna™, your personal health assistant. I'm here to help with any questions about diabetes, obesity, nutrition, exercise, or mental wellbeing. How can I assist you today?",
+    "typePlaceholder": "Type your message...",
+    "newChat": "New Chat",
+    "startNewConversation": "Start a new conversation",
+    "recentChats": "Recent Chats",
+    "disclaimer": "This health assistant provides general health information only and is not a substitute for professional medical advice."
+  },
+  "dashboard": {
+    "title": "Health Dashboard",
+    "subtitle": "Track and monitor your health metrics",
+    "addEntry": "Add Health Entry",
+    "addNewEntry": "Add New Health Entry",
+    "bloodGlucose": "Blood Glucose",
+    "weight": "Weight",
+    "bloodPressure": "Blood Pressure",
+    "form": {
+      "date": "Date",
+      "weight": "Weight",
+      "bloodGlucose": "Blood Glucose",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "mood": "Mood",
+      "sleep": "Sleep",
+      "hours": "hours",
+      "notes": "Notes",
+      "cancel": "Cancel",
+      "save": "Save",
+      "moodVeryBad": "Very Bad",
+      "moodBad": "Bad",
+      "moodNeutral": "Neutral"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "needAccount": "¿Necesitas una cuenta? Regístrate",
+    "alreadyAccount": "¿Ya tienes una cuenta? Inicia sesión",
+    "loading": "Cargando...",
+    "disclaimer": "Al iniciar sesión, aceptas nuestros Términos de Servicio y Política de Privacidad. Tus datos están cifrados de manera segura y gestionados de acuerdo con las normas GDPR y HIPAA."
+  },
+  "sidebar": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "assessment": "Evaluación de Salud",
+    "carePlan": "Plan de Cuidado",
+    "mentalHealth": "Salud Mental",
+    "chatAssistant": "Asistente IA",
+    "profile": "Perfil",
+    "nutrition": "Nutrición",
+    "signOut": "Cerrar Sesión"
+  },
+  "nutrition": {
+    "title": "Control de Nutrición",
+    "subtitle": "Registra tus comidas y obtén información nutricional personalizada",
+    "addFood": "Agregar Alimento",
+    "searchFood": "Buscar Alimento",
+    "dailySummary": "Resumen Diario",
+    "foodEntries": "Registros de Alimentos",
+    "form": {
+      "mealType": "Tipo de Comida",
+      "foodName": "Nombre del Alimento",
+      "portion": "Porción/Tamaño de la Ración",
+      "calories": "Calorías",
+      "carbs": "Carbohidratos (g)",
+      "protein": "Proteínas (g)",
+      "fat": "Grasas (g)",
+      "fiber": "Fibra (g)",
+      "cancel": "Cancelar",
+      "save": "Agregar Entrada"
+    }
+  },
+  "header": {
+    "search": "Buscar..."
+  },
+  "home": {
+    "welcome": "¡Bienvenida, {{name}}!",
+    "friend": "amiga",
+    "subtitle": "Tu compañero de salud impulsado por IA para gestionar la diabetes y la obesidad",
+    "talkToAssistant": "Hablar con Asistente IA",
+    "takeAssessment": "Realizar Evaluación de Salud",
+    "getStarted": "Comenzar",
+    "features": {
+      "aiAssistant": {
+        "title": "Asistente de Salud IA",
+        "description": "Recibe orientación personalizada a través de conversaciones naturales con nuestra IA."
+      },
+      "carePlans": {
+        "title": "Planes de Cuidado Adaptativos",
+        "description": "Recibe planes personalizados de nutrición y ejercicio que se adaptan a tu progreso."
+      },
+      "healthTracking": {
+        "title": "Seguimiento de Salud",
+        "description": "Monitorea tus métricas vitales de salud y visualiza tendencias a lo largo del tiempo."
+      },
+      "mentalHealth": {
+        "title": "Bienestar Mental",
+        "description": "Accede a apoyo para el estrés, ansiedad y otros aspectos psicológicos de la salud."
+      },
+      "assessment": {
+        "title": "Evaluación de Salud",
+        "description": "Obtén una evaluación integral de tu estado de salud y factores de riesgo."
+      }
+    },
+    "dailyTip": {
+      "title": "Consejo Diario de Salud",
+      "content": "Intenta añadir más verduras de hoja verde a tus comidas. Son ricas en nutrientes y pueden ayudar a regular los niveles de azúcar en sangre."
+    },
+    "quickActions": {
+      "title": "Acciones Rápidas",
+      "logHealth": "Registrar Métricas de Salud de Hoy",
+      "askQuestion": "Hacer una Pregunta de Salud",
+      "viewPlan": "Ver Tu Plan de Cuidado"
+    },
+    "resources": {
+      "title": "Recursos Útiles",
+      "diabetesGuide": "Entendiendo la Diabetes Tipo 2",
+      "nutritionBasics": "Fundamentos de Nutrición para Mejor Salud",
+      "mentalWellbeing": "Técnicas de Manejo del Estrés"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de Salud",
+    "subtitle": "Sigue y monitorea tus métricas de salud",
+    "bloodGlucose": "Glucosa en Sangre",
+    "weight": "Peso",
+    "bloodPressure": "Presión Arterial",
+    "steps": "Pasos Diarios",
+    "date": "Fecha",
+    "mood": "Estado de Ánimo",
+    "healthTrends": "Tendencias de Salud",
+    "yourGoals": "Tus Objetivos de Salud",
+    "recentEntries": "Entradas Recientes",
+    "addEntry": "Añadir Entrada",
+    "editGoals": "Editar Objetivos",
+    "updateProgress": "Actualizar Progreso",
+    "goals": {
+      "bloodGlucose": "Control de Glucosa en Sangre",
+      "bloodGlucoseDetail": "Objetivo: Mantener la glucosa en ayunas por debajo de 110 mg/dL",
+      "weight": "Control de Peso",
+      "weightDetail": "Objetivo: Perder 5kg en los próximos 3 meses",
+      "activity": "Actividad Física",
+      "activityDetail": "Objetivo: 8,000 pasos diarios y 150 min/semana de ejercicio moderado"
+    },
+    "form": {
+      "date": "Fecha",
+      "weight": "Peso",
+      "bloodGlucose": "Glucosa en Sangre",
+      "systolic": "Sistólica",
+      "diastolic": "Diastólica",
+      "mood": "Estado de Ánimo",
+      "moodVeryBad": "Muy Mal",
+      "moodBad": "Mal",
+      "moodNeutral": "Neutral",
+      "moodGood": "Bien",
+      "moodVeryGood": "Muy Bien",
+      "steps": "Pasos",
+      "sleep": "Sueño",
+      "hours": "horas",
+      "notes": "Notas",
+      "cancel": "Cancelar",
+      "save": "Guardar"
+    },
+    "addNewEntry": "Añadir Nueva Entrada de Salud",
+    "demoNotice": {
+      "title": "Modo Demo",
+      "message": "Actualmente estás viendo datos de muestra. Añade tus propias métricas de salud para comenzar a seguir tu propio viaje de salud."
+    }
+  },
+  "chat": {
+    "welcomeMessage": "¡Hola! Soy tu asistente de salud OpenHanna AI. Estoy aquí para ayudarte con cualquier pregunta sobre diabetes, obesidad, nutrición, ejercicio o bienestar mental. ¿Cómo puedo ayudarte hoy?",
+    "typePlaceholder": "Escribe tu mensaje...",
+    "newChat": "Nuevo Chat",
+    "startNewConversation": "Iniciar una nueva conversación",
+    "recentChats": "Chats Recientes",
+    "disclaimer": "Este asistente de IA proporciona información general de salud solamente y no sustituye el consejo médico profesional.",
+    "responses": {
+      "greeting": "¡Hola {{name}}! ¿Cómo te sientes hoy? ¿Hay algo específico sobre tu salud que te gustaría discutir?",
+      "diabetes": "El manejo de la diabetes tipo 2 implica monitorear tus niveles de glucosa en sangre, mantener una dieta equilibrada rica en fibra y baja en carbohidratos simples, actividad física regular y tomar los medicamentos recetados según las indicaciones. El monitoreo regular te ayuda a entender cómo diferentes alimentos, actividades y medicamentos afectan tus niveles de glucosa. ¿Te gustaría recibir consejos más específicos sobre alguno de estos aspectos?",
+      "diet": "Una dieta equilibrada para la diabetes y el manejo del peso típicamente incluye abundantes vegetales no feculentos, cantidades moderadas de proteínas magras, grasas saludables y carbohidratos refinados limitados. Considera el método del plato: llena la mitad de tu plato con vegetales no feculentos, un cuarto con proteínas magras y un cuarto con carbohidratos complejos. Además, presta atención al tamaño de las porciones e intenta comer regularmente a lo largo del día para mantener estables los niveles de azúcar en sangre. ¿Te gustaría que te sugiriera algunas ideas específicas de comidas?",
+      "exercise": "La actividad física regular es crucial para manejar tanto la diabetes como el peso. Ayuda a mejorar la sensibilidad a la insulina, reduce los niveles de glucosa en sangre y apoya el manejo del peso. Intenta realizar al menos 150 minutos de actividad aeróbica de intensidad moderada semanalmente, distribuidos en al menos 3 días. También incluye ejercicios de fortalecimiento dos veces por semana. Comienza lentamente y aumenta gradualmente la intensidad si eres nueva en el ejercicio. Caminar, nadar y andar en bicicleta son excelentes opciones de bajo impacto. Recuerda revisar tu glucosa en sangre antes y después del ejercicio, especialmente cuando comienzas una nueva rutina.",
+      "mentalHealth": "Vivir con condiciones de salud crónicas como la diabetes y la obesidad puede ser emocionalmente desafiante. Técnicas de manejo del estrés como la respiración profunda, la meditación y la relajación muscular progresiva pueden ayudar a reducir las hormonas del estrés que pueden afectar el azúcar en sangre. La actividad física regular también mejora el estado de ánimo al liberar endorfinas. Considera unirte a un grupo de apoyo para conectar con otras personas que enfrentan desafíos similares. Si experimentas sentimientos persistentes de tristeza, ansiedad o abrumamiento, por favor considera hablar con un profesional de salud mental especializado en condiciones de salud crónicas.",
+      "weight": "El manejo saludable del peso combina cambios nutricionales, actividad física regular y estrategias conductuales. Concéntrate en crear un déficit calórico modesto a través de la dieta y el ejercicio, apuntando a una pérdida de peso gradual de aproximadamente 0.5-1 kg por semana. Elige alimentos integrales y no procesados que proporcionen saciedad con menos calorías, como vegetales, frutas, proteínas magras y granos enteros. El monitoreo regular tanto del peso como de las métricas de salud puede ayudar a seguir el progreso y mantenerse motivada. Recuerda que el manejo sostenible del peso se trata de crear cambios duraderos en el estilo de vida en lugar de seguir dietas restrictivas a corto plazo.",
+      "default": "Gracias por tu pregunta. Como tu asistente de salud por IA, estoy aquí para proporcionar información sobre el manejo de la diabetes, nutrición, ejercicio, manejo del peso y bienestar mental. ¿Podrías proporcionar más detalles sobre tu preocupación específica de salud para que pueda darte una orientación más adaptada?"
+    }
+  }
+}
